@@ -1,20 +1,30 @@
-# 👋 Hi, I'm Muhammed Ahmed!
+👋 Hi, I'm Muhammad Ahmed!
+🎓 Currently enrolled at Saylani Mass IT Training Program, mastering Modern Web and App Development. Passionate about coding, problem-solving, and building real-world projects.
 
-🎓 I'm currently a student at **Saylani Mass IT Training Program**, where I’m acquiring skills in **Modern Web and App Development**.
+🚀 Skills
+Frontend: HTML, CSS, JavaScript, Bootstrap
 
-💻 Passionate about learning new technologies, building real-world projects, and growing with a developer's mindset.
+Responsive Design: Mobile-first approach
 
-🚀 Currently focused on:
-- HTML, CSS, JavaScript
-- Frontend Development
-- Responsive Web Design
-- Building clone websites and professional portfolios
+Version Control: Git & GitHub
 
-🧠 Developing a growth-oriented and problem-solving mindset with every line of code.
+Problem-Solving: Algorithmic thinking
 
-📫 Let's connect and grow together!
-- GitHub: "ahmeddev812" (https://github.com/ahmeddev812)
-- LinkedIn: https://www.linkedin.com/in/mohammad-ahmed-faisal-amanullah-2803072a3/
+🌱 Currently Learning
+Advanced JavaScript (ES6+)
+
+React.js
+
+UI/UX Principles
+
+ Let's Connect!
+GitHub: ahmeddev812
+
+LinkedIn: Muhammad Ahmed
+
+🚀 Goal: To become a Full-Stack Developer and contribute to impactful projects!
+
+⭐ Fun Fact: I love turning coffee into code!
 
 <!--
 **ahmeddev812/ahmeddev812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
