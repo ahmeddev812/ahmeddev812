@@ -1,42 +1,27 @@
-👋 Hi, I'm Muhammad Ahmed!
-🎓 Currently enrolled at Saylani Mass IT Training Program, mastering Modern Web and App Development. Passionate about coding, problem-solving, and building real-world projects.
+👋I am Muhammad Ahmed,
+Web Developer | Frontend Specialist | Coding Enthusiast
+Currently advancing my skills at Saylani Mass IT Training Program with a focus on Modern Web and App Development. Passionate about crafting clean, efficient code and building impactful digital experiences.
 
-🚀 Skills
-Frontend: HTML, CSS, JavaScript, Bootstrap
+Technical Skills
+Frontend Development: HTML5, CSS3, JavaScript (ES6+), Bootstrap
 
-Responsive Design: Mobile-first approach
+Responsive Web Design: Mobile-first approach, cross-browser compatibility
 
-Version Control: Git & GitHub
+Version Control: Git, GitHub
 
-Problem-Solving: Algorithmic thinking
+Problem-Solving: Strong analytical and algorithmic thinking
 
-🌱 Currently Learning
-Advanced JavaScript (ES6+)
+Current Focus
+Expanding expertise in Advanced JavaScript, React.js, and UI/UX Principles to build dynamic and scalable web applications.
 
-React.js
+Career Goals
+Aspiring to become a Full-Stack Developer and contribute to innovative projects that solve real-world challenges.
 
-UI/UX Principles
+Connect With Me
+GitHub: github.com/ahmeddev812
 
- Let's Connect!
-GitHub: ahmeddev812
+LinkedIn: linkedin.com/in/muhammad-ahmed
 
-LinkedIn: Muhammad Ahmed
+"Turning coffee into code, one line at a time." ☕💻
 
-🚀 Goal: To become a Full-Stack Developer and contribute to impactful projects!
-
-⭐ Fun Fact: I love turning coffee into code!
-
-<!--
-**ahmeddev812/ahmeddev812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to collaborations, internships, and freelance opportunities. 🚀
