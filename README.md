@@ -18,9 +18,9 @@ Career Goals
 Aspiring to become a Full-Stack Developer and contribute to innovative projects that solve real-world challenges.
 
 Connect With Me
-GitHub: github.com/ahmeddev812
+GitHub: https://github.com/ahmeddev812
 
-LinkedIn: linkedin.com/in/muhammad-ahmed
+LinkedIn: https://www.linkedin.com/in/muhammed-ahmed-2803072a3/
 
 "Turning coffee into code, one line at a time." ☕💻
 
