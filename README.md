@@ -1,33 +1,141 @@
-<svg width="620" height="290" viewBox="0 0 620 290" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#12182A"/>
-      <stop offset="100%" stop-color="#0A0E1A"/>
-    </linearGradient>
-  </defs>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="AhmedVerse banner" src="./assets/banner-dark.svg" width="100%">
+</picture>
 
-  <rect x="1" y="1" width="618" height="288" rx="14" fill="url(#termBg)" stroke="#232B42" stroke-width="1.5"/>
+<br/>
 
-  <!-- title bar -->
-  <rect x="1" y="1" width="618" height="36" rx="14" fill="#161D30"/>
-  <rect x="1" y="24" width="618" height="13" fill="#161D30"/>
-  <circle cx="24" cy="19" r="6" fill="#FF5F57"/>
-  <circle cx="44" cy="19" r="6" fill="#FEBC2E"/>
-  <circle cx="64" cy="19" r="6" fill="#28C840"/>
-  <text x="310" y="24" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="12" fill="#5B6478">ahmed@ahmedverse — zsh</text>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-  <!-- body -->
-  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15">
-    <text x="24" y="70"><tspan fill="#3B82F6">ahmed@ahmedverse</tspan><tspan fill="#5B6478">:~$ </tspan><tspan fill="#E7ECF5">whoami</tspan></text>
+### Frontend developer who cares more about the last 10% than the first 90%.
 
-    <text x="24" y="100" fill="#8FB8E8">→ Ahmed — Frontend &amp; Next.js Developer</text>
-    <text x="24" y="124" fill="#5B6478">   CS student, currently shipping BlazeCart</text>
+I build with Next.js and TypeScript, but the part I actually obsess over is
+what happens after the feature "works" — the spacing that's a pixel off,
+the transition that's 40ms too slow, the empty state nobody designed.
+That gap is where I spend most of my time.
 
-    <text x="24" y="160"><tspan fill="#3B82F6">ahmed@ahmedverse</tspan><tspan fill="#5B6478">:~$ </tspan><tspan fill="#E7ECF5">cat focus.txt</tspan></text>
-    <text x="24" y="188" fill="#8FB8E8">→ React · Next.js · TypeScript · Tailwind</text>
-    <text x="24" y="210" fill="#8FB8E8">→ Obsessed with the last 10% of polish</text>
+Right now I'm building **BlazeCart**, a full storefront with Stripe,
+auth, wishlist, and a dark/light theme system I've broken and fixed more
+times than I'd like to admit — which is exactly how you learn what
+actually goes wrong in production UI.
 
-    <text x="24" y="246"><tspan fill="#3B82F6">ahmed@ahmedverse</tspan><tspan fill="#5B6478">:~$ </tspan><tspan fill="#E7ECF5">status</tspan><tspan fill="#5B6478"> --live</tspan></text>
-    <text x="24" y="270" fill="#22C55E">→ building · shipping · learning</text>
-  </g>
-</svg>
+**Studying:** Computer Science
+**Building:** BlazeCart 🛒
+**Learning:** Next.js 16, Prisma, system design
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="./assets/terminal.svg" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+### What I actually reach for
+
+<details>
+<summary><b>Frontend</b> — click to expand</summary>
+<br>
+
+React · Next.js · TypeScript · Tailwind CSS · Bootstrap
+
+</details>
+
+<details>
+<summary><b>Backend</b> — click to expand</summary>
+<br>
+
+Node.js · Express.js · Firebase · Supabase
+
+</details>
+
+<details>
+<summary><b>Data</b> — click to expand</summary>
+<br>
+
+MongoDB · PostgreSQL · Prisma
+
+</details>
+
+<details>
+<summary><b>Tools</b> — click to expand</summary>
+<br>
+
+Git · GitHub · VS Code · Vercel · Figma · Postman
+
+</details>
+
+---
+
+### Featured work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🛒 BlazeCart**
+*Premium ecommerce platform*
+
+`role` full-stack build
+`stack` Next.js · Stripe · Prisma
+`shipped` Auth, wishlist, dark/light theme, advanced search & filtering
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 Helplytics AI**
+*AI SaaS dashboard*
+
+`role` frontend + integration
+`stack` Next.js · TypeScript · OpenAI
+`shipped` Auth, analytics dashboard, embedded AI chat
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 AhmedVerse**
+*Personal portfolio*
+
+`role` design + build
+`stack` React · Framer Motion · Tailwind
+`shipped` Glassmorphism UI, motion system, full responsiveness
+
+</td>
+</tr>
+</table>
+
+---
+
+### The numbers, for what they're worth
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmeddev812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=3B82F6&text_color=c9d1d9&hide_rank=true" height="150">
+
+*(Green squares are a rough proxy for effort, not a substitute for it.)*
+
+---
+
+### Now → Later
+
+| Now | Later |
+|---|---|
+| Shipping BlazeCart's checkout + theme fixes | Contributing to an open-source design system |
+| Learning Prisma relations properly, not by trial-and-error | Going deeper on backend architecture |
+| Cleaning up motion consistency across pages | Writing about the UI decisions, not just the code |
+
+---
+
+> If it looks simple, it probably wasn't. That's usually the point.
+
+<br>
+
+<div>
+
+**Reach me:** [GitHub](https://github.com/ahmeddev812) · LinkedIn *(add your link)* · Email *(add yours)*
+
+</div>
