@@ -1,4 +1,3 @@
-```text
 <div align="center">
 
   <!-- TOP BANNER -->
@@ -344,5 +343,3 @@
     <i>Designed with ❤️ for <b>AhmedVerse</b> • Inspired by Apple, Vercel & Linear</i>
   </p>
 </div>
-
-```
