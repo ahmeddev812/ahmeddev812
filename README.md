@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="AhmedVerse banner" src="./assets/banner-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img alt="AhmedVerse banner" src="./banner-dark.svg" width="100%">
 </picture>
 
 <br/>
@@ -38,7 +38,7 @@ actually goes wrong in production UI.
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/terminal.svg" width="100%">
+<img src="./terminal.svg" width="100%">
 
 </td>
 </tr>
